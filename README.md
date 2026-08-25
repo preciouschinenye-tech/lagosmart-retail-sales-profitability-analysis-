@@ -347,7 +347,7 @@ Do products with the highest sales revenue also generate the highest profit?
 **Visual:**  
 Top 10 Products by Sales — bar chart, interpreted alongside the Most Profitable Products analysis.
 
-![Sales Revenue versus Product Profitability](Sales Revenue-versus-Product-Profitability.png)
+![Sales Revenue versus Product Profitability](Sales-Revenue-versus-Product-Profitability.png)
 
 **Key Finding:**  
 The products generating the highest sales revenue were not necessarily the most profitable. For example, iPhone 13 ranked highly in sales but did not generate the highest profit, while Treadmill recorded the highest profit despite ranking sixth in sales.
@@ -367,7 +367,7 @@ Which product category has the highest and lowest average profit margin?
 **Visual:**  
 Average Profit Margin by Product Category — column chart.
 
-![Average Profit Margin by Product Category](Average Profit-Margin-by-Category.png)
+![Average Profit Margin by Product Category](Average-Profit-Margin-by-Category.png)
 
 **Key Finding:**  
 Fashion recorded the highest average profit margin at approximately 34%, while Phones and Tablets recorded the lowest at approximately 7%.
