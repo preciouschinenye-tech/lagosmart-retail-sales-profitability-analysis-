@@ -480,3 +480,107 @@ Customer concentration is uneven across states, with Lagos accounting for a subs
 
 **Recommendation:**  
 LagosMart should continue strengthening customer engagement in high-concentration markets while evaluating opportunities to expand customer reach in lower-representation states. Expansion decisions should consider market demand, sales potential, and operational feasibility rather than customer count alone.
+
+
+## Operational Performance
+
+The Operational Performance analysis evaluates returns, delivery outcomes, cancellations, and the relationship between payment methods and order fulfillment.
+
+### Return Rate by Category
+
+**Business Question:**  
+Which product categories have the highest and lowest return rates?
+
+**Visual:**  
+Return Rate by Category — bar chart.
+
+![Return Rate by Category](Return-Rate-by-Category.png)
+
+**Key Finding:**  
+Electronics recorded the highest return rate at 16.0%, while Baby Products and Sports and Fitness recorded the lowest return rates at 4.8%.
+
+**Business Insight:**  
+Return rates vary across product categories, with returns more concentrated in Electronics than in the lower-return categories. This pattern may reflect differences in product quality, customer expectations, product descriptions, or fulfillment.
+
+**Recommendation:**  
+LagosMart should investigate the main drivers of returns in Electronics by reviewing return reasons, product quality, product descriptions, and fulfillment processes. The business should also monitor recurring return patterns and assess practices associated with lower-return categories.
+
+
+### Delivery Status Distribution
+
+**Business Question:**  
+What is the overall delivery status of LagosMart's orders?
+
+**Visual:**  
+Delivery Status Distribution — donut chart.
+
+![Delivery Status Distribution](Delivery-Status.png)
+
+**Key Finding:**  
+Delivered orders accounted for approximately 78.62% of total orders. The remaining orders were distributed across in-transit, cancelled, pending, and failed statuses.
+
+**Business Insight:**  
+The majority of orders were successfully delivered, indicating generally positive fulfillment performance. However, undelivered orders represent potential operational friction and may affect revenue realization and customer experience.
+
+**Recommendation:**  
+LagosMart should monitor undelivered orders through delivery-status tracking and investigate the causes of cancellations, failed deliveries, and prolonged pending or in-transit orders. Reducing avoidable exceptions could improve fulfillment efficiency and customer experience.
+
+
+### Payment Method vs Cancellation Rate
+
+**Business Question:**  
+Which payment methods are associated with the highest cancellation rates?
+
+**Visual:**  
+Payment Method vs Cancellation Rate — table.
+
+![Payment Method vs Cancellation Rate](Payment-Method-vs-Cancellation-Rate.png)
+
+**Key Finding:**  
+Cash on Delivery recorded the highest cancellation rate at approximately 15.3%, while Card Payment recorded the lowest among the major payment methods at approximately 1.8%.
+
+**Business Insight:**  
+Cash on Delivery is associated with a substantially higher cancellation rate than the other major payment methods. This pattern warrants investigation into factors such as customer commitment, order confirmation, and delivery-related issues.
+
+**Recommendation:**  
+LagosMart should investigate the drivers of Cash on Delivery cancellations, including order confirmation, customer commitment, and failed delivery attempts. Order verification processes should be strengthened while maintaining appropriate payment flexibility for customers.
+
+
+### Delivery Status by Payment Method
+
+**Business Question:**  
+How does delivery performance vary across payment methods?
+
+**Visual:**  
+Delivery Status by Payment Method — stacked bar chart.
+
+![Delivery Status by Payment Method](Delivery-Status-by-Payment-Method.png)
+
+**Key Finding:**  
+Delivery outcomes varied across payment methods, with Cash on Delivery recording approximately 73% delivered orders and the highest cancellation share at approximately 15%. Bank Transfer and Mobile Wallet recorded approximately 81% delivered orders.
+
+**Business Insight:**  
+Cash on Delivery demonstrated weaker fulfillment performance than the other major payment methods, driven primarily by its substantially higher cancellation rate. This suggests that the payment method may be associated with greater order-commitment or fulfillment challenges.
+
+**Recommendation:**  
+LagosMart should investigate the Cash on Delivery order journey, particularly order confirmation, customer commitment, and failed delivery attempts, to determine the causes of higher cancellations. Delivery performance should continue to be monitored across payment methods to identify opportunities for improving fulfillment efficiency.
+
+
+### Order Status Distribution
+
+**Business Question:**  
+What is the overall outcome of LagosMart's orders?
+
+**Visual:**  
+Order Status Distribution — bar chart.
+
+![Order Status Distribution](Order-Status-Disribution.png)
+
+**Key Finding:**  
+The majority of LagosMart orders were completed, with approximately 4.3K completed orders, while returned and cancelled orders represented smaller portions of total order volume.
+
+**Business Insight:**  
+LagosMart successfully completed the majority of recorded orders, indicating generally positive overall order performance. However, returned and cancelled orders represent potential revenue leakage and operational inefficiency.
+
+**Recommendation:**  
+LagosMart should maintain its strong order-completion performance while investigating the underlying causes of returned and cancelled orders. Reducing avoidable exceptions could improve revenue realization and operational efficiency.
