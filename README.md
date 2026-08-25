@@ -584,3 +584,88 @@ LagosMart successfully completed the majority of recorded orders, indicating gen
 
 **Recommendation:**  
 LagosMart should maintain its strong order-completion performance while investigating the underlying causes of returned and cancelled orders. Reducing avoidable exceptions could improve revenue realization and operational efficiency.
+
+## Executive Strategic Recommendations
+
+Based on the findings from the sales, product, customer, and operational analyses, the following recommendations are proposed:
+
+1. **Strengthen high-performing markets while addressing regional gaps**  
+   LagosMart should continue leveraging strong-performing regions and states while conducting targeted market assessments in lower-performing markets to identify barriers to revenue growth and opportunities for expansion.
+
+2. **Manage products based on both revenue and profitability**  
+   Product decisions should consider sales revenue, profit contribution, and profit margin rather than sales volume alone. High-sales but low-margin products should be reviewed for pricing, cost, and discount opportunities.
+
+3. **Protect and optimize high-profit products**  
+   The most profitable products should receive appropriate inventory availability, performance monitoring, and targeted marketing attention to protect their contribution to overall profitability.
+
+4. **Strengthen customer retention**  
+   Since the customer base contains a larger proportion of new customers than returning customers, LagosMart should complement customer acquisition with retention initiatives such as loyalty programs, personalized promotions, and post-purchase engagement.
+
+5. **Improve payment and cancellation performance**  
+   The high cancellation rate associated with Cash on Delivery should be investigated, particularly around order confirmation, customer commitment, and delivery attempts. Bank transfer should remain an important payment channel while lower-adoption payment methods and unknown payment records are reviewed.
+
+6. **Reduce avoidable operational exceptions**  
+   LagosMart should monitor cancellations, failed deliveries, pending orders, and returns to identify recurring operational issues. Particular attention should be given to categories and payment methods associated with higher return or cancellation rates.
+
+7. **Improve data quality and reporting controls**  
+   Payment records classified as "Unknown", duplicate identifiers, missing values, and other data-quality issues should be monitored through stronger data-entry and validation controls to improve the reliability of future business reporting.
+
+
+## Conclusion
+
+The LagosMart Retail Sales & Profitability Analysis provides a consolidated view of the business's revenue performance, product profitability, customer behaviour, and operational outcomes.
+
+The analysis shows that sales performance varies considerably across regions, states, product categories, customer groups, store types, and payment methods. Strong revenue performance does not always translate into stronger profitability, highlighting the importance of evaluating both sales and profit when making product and resource allocation decisions.
+
+The product analysis further demonstrates that profitability is concentrated among certain products and categories, while some high-revenue categories operate with comparatively lower profit margins. Customer analysis also shows an opportunity to strengthen retention, while operational analysis highlights the need to monitor returns, cancellations, and delivery exceptions.
+
+Overall, LagosMart's performance can be strengthened by combining revenue growth with disciplined profitability management, customer retention, payment optimization, and operational improvement. The findings provide management with evidence-based areas for further investigation and decision-making.
+
+## Executive Summary
+
+The LagosMart Retail Sales & Profitability Analysis is an end-to-end business analytics project developed to evaluate sales performance, product profitability, customer behaviour, and operational performance across a Nigerian retail business.
+
+The analysis used a synthetic AI-generated retail dataset containing approximately 5,000 records. Excel, MySQL, and Power BI were used for data preparation, validation, analysis, visualization, and business reporting.
+
+The analysis identified clear differences in performance across regions, states, product categories, customer segments, store types, and payment methods. The Southwest recorded the strongest regional sales performance, while the Northeast recorded the lowest. Online sales contributed a larger share of revenue than physical stores, while new customers generated more sales revenue than returning customers.
+
+Product analysis showed that sales volume and profitability were not always aligned. Phones and tablets generated the highest category sales revenue but recorded the lowest average profit margin among the categories analyzed, while Fashion recorded the highest average profit margin. This demonstrates the importance of evaluating product performance using both revenue and profitability measures.
+
+Customer analysis showed a customer base weighted toward new customers, creating an opportunity to strengthen customer retention and repeat purchasing. Customer ratings also varied across regions and product categories, indicating areas where customer experience may require further investigation.
+
+Operational analysis highlighted differences in returns, delivery outcomes, and payment-related cancellations. Cash on Delivery recorded a substantially higher cancellation rate than the other major payment methods, while delivery and order-status analysis showed that most orders were successfully completed or delivered but that cancellations, returns, failed orders, and other exceptions remain areas for monitoring.
+
+Overall, the analysis indicates that LagosMart should balance revenue growth with profitability management, customer retention, payment optimization, and operational efficiency. The findings provide a data-driven foundation for management to investigate performance gaps and prioritize improvement opportunities.
+
+## Appendix
+
+### A. SQL Analysis
+
+SQL was used to support exploratory analysis and answer selected business questions relating to sales, customers, products, and operational performance.
+
+Selected SQL analyses included:
+
+- Sales performance by region and state
+- Sales performance by customer type
+- Sales performance by payment method
+- Product profitability analysis
+- Customer distribution analysis
+- Cancellation and operational analysis
+
+The SQL scripts used during the project are included in the repository for technical reference.
+
+### B. Technical Notes
+
+- The dataset used in this project is synthetic and AI-generated for portfolio and analytical purposes.
+- Data cleaning and validation were performed before the final analysis.
+- Duplicate records and duplicate transaction identifiers were investigated during data preparation.
+- Missing values and inconsistent data formats were reviewed and addressed where appropriate.
+- Total Orders in Power BI was calculated using a distinct count of Transaction ID after validation.
+- Customer ratings were analyzed using average customer rating rather than summation.
+- Order Status and Delivery Status were treated as separate operational measures.
+- Payment records classified as "Unknown" were retained and identified as a data-quality consideration rather than being assigned to another payment method.
+- Dashboard metrics and visuals were developed in Power BI using validated data.
+
+### C. Project Files
+
+The repository contains the supporting files used for the analysis, including the Power BI dashboard, Excel analysis, SQL scripts, and final project report.
