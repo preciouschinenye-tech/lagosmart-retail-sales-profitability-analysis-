@@ -174,3 +174,92 @@ Sales performance varies substantially across states, with Lagos making the stro
 **Recommendation:**  
 Management should investigate the factors contributing to Lagos's strong performance and assess which relevant practices can be adapted to other high-potential markets. Lower-performing states should be assessed based on market demand and sales potential before additional investment decisions are made.
 
+### Monthly Sales and Profit Trend
+
+**Business Question:**  
+How did LagosMart's sales revenue and profit change over time?
+
+**Visual:**  
+Monthly Sales and Profit Trend — combo chart.
+![Monthly Sales and Profit Trend](Monthly-Sales-and-Profit-Trend.png)
+
+**Key Finding:**  
+December recorded the highest sales revenue and highest profit, while January recorded the lowest sales revenue and lowest profit. Sales and profit generally moved in the same direction across the period.
+
+**Business Insight:**  
+LagosMart's sales and profitability were strongest towards the end of the period, with December recording the strongest performance. The concurrent movement of sales and profit suggests that stronger sales performance was generally accompanied by higher profit during the period analyzed.
+
+**Recommendation:**  
+Management should investigate the factors behind the strong December performance, including customer demand, product mix, promotional activity, and seasonal purchasing patterns, and assess which successful practices could be applied during weaker periods.
+
+
+### Sales by Product Category
+
+**Business Question:**  
+Which product category generated the highest and lowest sales revenue?
+
+**Visual:**  
+Sales by Category — bar chart.
+
+**Key Finding:**  
+Phones and Tablets generated the highest sales revenue, while Books and Stationery recorded the lowest sales revenue.
+
+**Business Insight:**  
+Sales revenue is concentrated in stronger-performing product categories, with Phones and Tablets serving as the leading revenue contributor. The comparatively low contribution from Books and Stationery indicates weaker sales performance relative to other categories.
+
+**Recommendation:**  
+LagosMart should maintain appropriate inventory and targeted marketing for high-performing categories such as Phones and Tablets while investigating the factors contributing to weaker performance in Books and Stationery, including demand, pricing, product assortment, and availability.
+
+
+### Sales by Store Type
+
+**Business Question:**  
+Which store type contributes more to LagosMart's revenue: online or physical stores?
+
+**Visual:**  
+Sales by Store Type — bar chart.
+
+**Key Finding:**  
+Online sales generated approximately 59% of total sales, compared with approximately 41% from physical stores.
+
+**Business Insight:**  
+LagosMart's revenue is more strongly driven by its online channel, indicating that digital purchasing is an important contributor to overall sales.
+
+**Recommendation:**  
+LagosMart should strengthen its online sales strategy through improved digital customer engagement, product visibility, and purchasing convenience while evaluating opportunities to improve the performance of physical stores.
+
+
+### Sales by Customer Type
+
+**Business Question:**  
+How does sales performance differ between new and returning customers?
+
+**Visual:**  
+Sales by Customer Type — donut chart.
+
+**Key Finding:**  
+New customers generated higher sales revenue than returning customers during the period analyzed.
+
+**Business Insight:**  
+LagosMart's sales performance is more heavily driven by new customer acquisition than revenue from returning customers. While this demonstrates the ability to attract new buyers, the lower contribution from returning customers presents an opportunity to strengthen retention and repeat purchasing.
+
+**Recommendation:**  
+LagosMart should develop customer retention initiatives such as personalized promotions, loyalty rewards, post-purchase engagement, and targeted offers to encourage first-time customers to make repeat purchases.
+
+
+### Sales by Payment Method
+
+**Business Question:**  
+Which payment method generated the highest sales revenue?
+
+**Visual:**  
+Sales by Payment Method — column chart.
+
+**Key Finding:**  
+Bank Transfer generated the highest sales revenue among the available payment methods, while Mobile Wallet generated the lowest.
+
+**Business Insight:**  
+Bank Transfer is the dominant payment method by sales revenue, indicating strong customer usage of bank-based payments. The relatively low contribution from Mobile Wallet suggests lower adoption of that payment option. The presence of an Unknown payment category also indicates a data-quality issue requiring further review.
+
+**Recommendation:**  
+LagosMart should maintain and optimize Bank Transfer as a key payment option while investigating the low adoption of Mobile Wallet and reviewing Unknown payment records to improve transaction data accuracy. Payment processing and checkout experience should also be assessed where appropriate.
