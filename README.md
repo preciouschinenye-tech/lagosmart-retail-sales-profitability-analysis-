@@ -377,3 +377,106 @@ Profit margins differ considerably across product categories. Although Phones an
 
 **Recommendation:**  
 LagosMart should review the pricing, cost, and discount structure of high-revenue but low-margin categories such as Phones and Tablets. Management should also examine the factors contributing to Fashion's stronger margin and determine whether relevant pricing or cost-management practices can be applied elsewhere.
+
+
+## Customer Performance
+
+The Customer Performance analysis examines customer satisfaction, customer composition, and geographic customer concentration across LagosMart's customer base.
+
+### Customer Rating by Region
+
+**Business Question:**  
+How does customer satisfaction vary across LagosMart's regions?
+
+**Visual:**  
+Customer Rating by Region — bar chart.
+
+![Customer Rating by Region](Customer-Rating-by-Region.png)
+
+**Key Finding:**  
+The Southwest recorded the highest average customer rating, while the Northeast recorded the lowest.
+
+**Business Insight:**  
+Customer satisfaction varies across regions, suggesting that factors affecting customer experience may differ between markets.
+
+**Recommendation:**  
+LagosMart should investigate the factors contributing to stronger satisfaction in the Southwest and assess whether successful practices can be adapted elsewhere. The business should also investigate lower satisfaction in the Northeast, including product availability, delivery experience, order fulfillment, and service quality.
+
+
+### Customer Rating by Category
+
+**Business Question:**  
+Which product categories received the highest and lowest average customer ratings?
+
+**Visual:**  
+Customer Rating by Category — bar chart.
+
+![Customer Rating by Category](Customer-Rating-by-Category.png)
+
+**Key Finding:**  
+Grocery recorded the highest average customer rating at approximately 3.85, while Furniture, Books and Stationery, and Sports and Fitness recorded the lowest ratings at approximately 0.7 in the original category-level visualization.
+
+**Business Insight:**  
+Customer ratings vary across product categories, with Grocery receiving the strongest rating and several categories recording substantially lower ratings. The differences indicate that customer experience may vary depending on the category purchased.
+
+**Recommendation:**  
+LagosMart should investigate the factors contributing to stronger ratings in Grocery and review product quality, fulfillment, delivery experience, and customer feedback for lower-rated categories to identify the main drivers of dissatisfaction.
+
+### Customer Rating by Customer Type
+
+**Business Question:**  
+How are recorded customer ratings distributed between new and returning customers?
+
+**Visual:**  
+Distribution of Recorded Customer Ratings by Customer Type — donut chart.
+
+![Customer Rating by Customer Type](Customer-Rating-by-Customer-Typey.png)
+
+**Key Finding:**  
+New customers accounted for 50.17% of recorded customer ratings, while returning customers accounted for 49.83%, indicating a nearly even distribution.
+
+**Business Insight:**  
+Recorded customer feedback is relatively balanced between new and returning customers, providing perspectives from both customer groups rather than being dominated by one segment.
+
+**Recommendation:**  
+LagosMart should continue monitoring satisfaction across both customer groups and investigate whether the issues affecting new customers differ from those affecting returning customers. Segmenting customer feedback can support more targeted improvements to customer experience.
+
+
+### Customer Type Distribution
+
+**Business Question:**  
+How is LagosMart's customer base distributed between new and returning customers?
+
+**Visual:**  
+Customer Type Distribution — donut chart.
+
+![Distribution of Customer Rating by Customer Type](Distribution-of-Rating-by-Customer-Type-Rating-by-Cystomer-Type.png)
+
+**Key Finding:**  
+New customers represented approximately 60.58% of the customer base, while returning customers represented approximately 39.42%.
+
+**Business Insight:**  
+LagosMart's customer base is weighted towards new customers, indicating stronger customer acquisition than repeat-customer representation during the period analyzed.
+
+**Recommendation:**  
+LagosMart should complement customer acquisition efforts with retention strategies such as loyalty programmes, personalized offers, and post-purchase engagement designed to convert first-time buyers into repeat customers.
+
+
+### Top 10 States by Customer Distribution
+
+**Business Question:**  
+Which states have the highest customer concentration among the Top 10 states?
+
+**Visual:**  
+Top 10 Customer Distribution by State — column chart.
+
+![Top 10 States by Customer Distribution Type](Top-10-Customer-Distribution-by-State.png)
+
+**Key Finding:**  
+Lagos recorded the highest customer count among the Top 10 states, with 786 customers, while Kogi recorded 135 customers within the same Top 10 group.
+
+**Business Insight:**  
+Customer concentration is uneven across states, with Lagos accounting for a substantially larger customer base than the other leading states. This indicates that customer reach is concentrated in a limited number of markets.
+
+**Recommendation:**  
+LagosMart should continue strengthening customer engagement in high-concentration markets while evaluating opportunities to expand customer reach in lower-representation states. Expansion decisions should consider market demand, sales potential, and operational feasibility rather than customer count alone.
