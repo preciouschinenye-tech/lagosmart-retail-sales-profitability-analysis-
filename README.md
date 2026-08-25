@@ -128,23 +128,8 @@ The Executive Overview also contains four key visuals:
 
 The Executive Overview was designed to give management a quick understanding of LagosMart's financial, sales, geographic, customer, and operational performance before moving into the detailed analysis pages.
 
-## Sales Performance
+### Executive Overview Dashboard
 
-The Sales Performance analysis examines how revenue is distributed across regions, states, store types, customer types, payment methods, and product categories.
+![LagosMart Power BI Executive Overview Dashboard](LagosMart-PowerBi-Executive-Overview-Dashboard.png)
 
-### Sales by Region
-
-**Business Question:**  
-Which region generated the highest sales revenue, and which region recorded the lowest?
-
-**Visual:**  
-Sales by Region — bar chart with drill-down to states.
-
-**Key Finding:**  
-The Southwest generated the highest sales revenue, while the Northeast recorded the lowest sales revenue.
-
-**Business Insight:**  
-Sales performance varies considerably across regions, with the Southwest serving as LagosMart's strongest regional revenue contributor and the Northeast contributing the least.
-
-**Recommendation:**  
-Management should investigate the factors driving the Southwest's strong performance and assess which relevant practices can be adapted to other regions. A targeted review of the Northeast market should also be conducted to identify barriers to sales growth and develop region-specific improvement strategies.
+he factors driving the Southwest's strong performance and assess which relevant practices can be adapted to other regions. A targeted review of the Northeast market should also be conducted to identify barriers to sales growth and develop region-specific improvement strategies.
