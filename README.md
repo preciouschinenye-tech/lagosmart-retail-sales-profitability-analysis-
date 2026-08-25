@@ -430,7 +430,7 @@ How are recorded customer ratings distributed between new and returning customer
 **Visual:**  
 Distribution of Recorded Customer Ratings by Customer Type — donut chart.
 
-![Customer Rating by Customer Type](Customer-Rating-by-Customer-Typey.png)
+![Customer Rating by Customer Type](Customer-Rating-by-Customer-Type.png)
 
 **Key Finding:**  
 New customers accounted for 50.17% of recorded customer ratings, while returning customers accounted for 49.83%, indicating a nearly even distribution.
@@ -450,7 +450,7 @@ How is LagosMart's customer base distributed between new and returning customers
 **Visual:**  
 Customer Type Distribution — donut chart.
 
-![Distribution of Customer Rating by Customer Type](Distribution-of-Rating-by-Customer-Type-Rating-by-Cystomer-Type.png)
+![Distribution of Customer Rating by Customer Type](Distribution-of-Rating-by-Cystomer-Type.png)
 
 **Key Finding:**  
 New customers represented approximately 60.58% of the customer base, while returning customers represented approximately 39.42%.
@@ -470,7 +470,7 @@ Which states have the highest customer concentration among the Top 10 states?
 **Visual:**  
 Top 10 Customer Distribution by State — column chart.
 
-![Top 10 States by Customer Distribution Type](Top-10-Customer-Distribution-by-State.png)
+![Top 10 States by Customer Distribution Type](Top-10-Customer-Distribution-by-States.png)
 
 **Key Finding:**  
 Lagos recorded the highest customer count among the Top 10 states, with 786 customers, while Kogi recorded 135 customers within the same Top 10 group.
