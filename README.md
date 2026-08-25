@@ -201,6 +201,8 @@ Which product category generated the highest and lowest sales revenue?
 **Visual:**  
 Sales by Category — bar chart.
 
+![Sales by Product Category](Sales-by-Product-Category.png)
+
 **Key Finding:**  
 Phones and Tablets generated the highest sales revenue, while Books and Stationery recorded the lowest sales revenue.
 
@@ -218,6 +220,8 @@ Which store type contributes more to LagosMart's revenue: online or physical sto
 
 **Visual:**  
 Sales by Store Type — bar chart.
+
+![Sales by Store Type](Sales-by-Store-Type.png)
 
 **Key Finding:**  
 Online sales generated approximately 59% of total sales, compared with approximately 41% from physical stores.
@@ -237,6 +241,8 @@ How does sales performance differ between new and returning customers?
 **Visual:**  
 Sales by Customer Type — donut chart.
 
+![Sales by Customer Type](Sales-by-Customer-Type.png)
+
 **Key Finding:**  
 New customers generated higher sales revenue than returning customers during the period analyzed.
 
@@ -251,6 +257,8 @@ LagosMart should develop customer retention initiatives such as personalized pro
 
 **Business Question:**  
 Which payment method generated the highest sales revenue?
+
+![Sales by Payment Method](Sales-by-Payment-Method.png)
 
 **Visual:**  
 Sales by Payment Method — column chart.
