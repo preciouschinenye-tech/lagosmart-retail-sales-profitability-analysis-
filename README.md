@@ -180,7 +180,9 @@ Management should investigate the factors contributing to Lagos's strong perform
 How did LagosMart's sales revenue and profit change over time?
 
 **Visual:**  
+
 Monthly Sales and Profit Trend — combo chart.
+
 ![Monthly Sales and Profit Trend](Monthly-Sales-and-Profit-Trend.png)
 
 **Key Finding:**  
@@ -271,3 +273,99 @@ Bank Transfer is the dominant payment method by sales revenue, indicating strong
 
 **Recommendation:**  
 LagosMart should maintain and optimize Bank Transfer as a key payment option while investigating the low adoption of Mobile Wallet and reviewing Unknown payment records to improve transaction data accuracy. Payment processing and checkout experience should also be assessed where appropriate.
+
+
+## Product Performance
+
+The Product Performance analysis evaluates revenue contribution, profitability, product-level performance, and profit margins across LagosMart's product portfolio.
+
+### Profit by Product Category
+
+**Business Question:**  
+Which product category generated the highest and lowest profit?
+
+![Profit by Product Category](Profit-by-Product-Category.png)
+
+**Visual:**  
+Profit by Category — column chart.
+
+**Key Finding:**  
+Electronics generated the highest profit, while Books and Stationery recorded the lowest profit.
+
+**Business Insight:**  
+Profitability varies considerably across product categories. Electronics is the strongest contributor to overall profit, while Books and Stationery contribute substantially less. This demonstrates that sales volume alone does not determine the financial value of a category.
+
+**Recommendation:**  
+LagosMart should optimize the profitability of strong categories such as Electronics while reviewing pricing, costs, discounts, and product mix in lower-profit categories. Inventory and resource allocation decisions should consider both revenue and profitability.
+
+
+### Most Profitable Products
+
+**Business Question:**  
+Which individual products generated the highest profit?
+
+**Visual:**  
+Most Profitable Products — Top 10 bar chart.
+
+**Key Finding:**  
+The Top 10 products represented the strongest individual profit contributors, with Treadmill recording the highest profit.
+
+**Business Insight:**  
+Profitability is concentrated among a relatively small group of products, indicating that certain products contribute disproportionately to overall product profit.
+
+**Recommendation:**  
+LagosMart should prioritize the availability and performance monitoring of highly profitable products while investigating the factors driving their profitability, including pricing, costs, demand, and product mix.
+
+
+### Bottom 10 Products by Profit
+
+**Business Question:**  
+Which individual products contributed the least to LagosMart's profitability?
+
+**Visual:**  
+Bottom 10 Products by Profit — bar chart.
+
+**Key Finding:**  
+Several products generated substantially lower profit than the stronger-performing products, with Notepad, Printer Paper A4, and Golden Morn 1kg among the lowest-profit products identified.
+
+**Business Insight:**  
+Profitability varies substantially across individual products. Although these products remained profitable rather than loss-making, their weaker contribution warrants further investigation.
+
+**Recommendation:**  
+LagosMart should review the pricing, costs, discounts, and sales volumes of the lowest-profit products to identify opportunities for margin improvement. Management should assess the underlying causes before considering repricing, supplier renegotiation, or product discontinuation.
+
+
+### Sales Revenue versus Product Profitability
+
+**Business Question:**  
+Do products with the highest sales revenue also generate the highest profit?
+
+**Visual:**  
+Top 10 Products by Sales — bar chart, interpreted alongside the Most Profitable Products analysis.
+
+**Key Finding:**  
+The products generating the highest sales revenue were not necessarily the most profitable. For example, iPhone 13 ranked highly in sales but did not generate the highest profit, while Treadmill recorded the highest profit despite ranking sixth in sales.
+
+**Business Insight:**  
+The difference between sales and profit rankings demonstrates that sales volume alone is not sufficient to evaluate product performance. Pricing, product cost, and discount levels can cause high-sales products to generate comparatively lower profit.
+
+**Recommendation:**  
+LagosMart should evaluate product performance using both sales revenue and profitability. Products with high sales but relatively lower profit should be reviewed for pricing, cost, and discount opportunities.
+
+
+### Average Profit Margin by Product Category
+
+**Business Question:**  
+Which product category has the highest and lowest average profit margin?
+
+**Visual:**  
+Average Profit Margin by Product Category — column chart.
+
+**Key Finding:**  
+Fashion recorded the highest average profit margin at approximately 34%, while Phones and Tablets recorded the lowest at approximately 7%.
+
+**Business Insight:**  
+Profit margins differ considerably across product categories. Although Phones and Tablets generated the highest sales revenue, the category recorded the lowest average profit margin, while Fashion achieved a substantially higher margin.
+
+**Recommendation:**  
+LagosMart should review the pricing, cost, and discount structure of high-revenue but low-margin categories such as Phones and Tablets. Management should also examine the factors contributing to Fashion's stronger margin and determine whether relevant pricing or cost-management practices can be applied elsewhere.
