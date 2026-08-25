@@ -164,6 +164,7 @@ Which states contributed the most to LagosMart's sales revenue?
 Top 10 States by Sales — horizontal bar chart.
 
 ![Top 10 States by Sales](Top-10-States-by-Sales.png)
+
 **Key Finding:**  
 Lagos recorded the highest sales revenue among the states included in the Top 10 analysis.
 
