@@ -130,6 +130,5 @@ The Executive Overview was designed to give management a quick understanding of 
 
 ### Executive Overview Dashboard
 
-![LagosMart Power BI Executive Overview Dashboard](LagosMart-PowerBi-Executive-Overview-Dashboard.png)
+![LagosMart Power BI Executive Overview Dashboard](LagosMart-PowerBI-Executive-Overview-Dashboard.png)
 
-he factors driving the Southwest's strong performance and assess which relevant practices can be adapted to other regions. A targeted review of the Northeast market should also be conducted to identify barriers to sales growth and develop region-specific improvement strategies.
