@@ -154,3 +154,22 @@ Sales performance varies considerably across regions, with the Southwest serving
 
 **Recommendation:**  
 Management should investigate the factors driving the Southwest's strong performance and assess which relevant practices can be adapted to other regions. A targeted review of the Northeast market should also be conducted to identify barriers to sales growth and develop region-specific improvement strategies.
+
+### Sales by State
+
+**Business Question:**  
+Which states contributed the most to LagosMart's sales revenue?
+
+**Visual:**  
+Top 10 States by Sales — horizontal bar chart.
+
+![Top 10 States by Sales](Top-10-States-by-Sales.png)
+**Key Finding:**  
+Lagos recorded the highest sales revenue among the states included in the Top 10 analysis.
+
+**Business Insight:**  
+Sales performance varies substantially across states, with Lagos making the strongest contribution among the leading markets. This indicates that revenue is concentrated in stronger-performing states and that market demand, customer reach, product mix, or sales execution may differ across locations.
+
+**Recommendation:**  
+Management should investigate the factors contributing to Lagos's strong performance and assess which relevant practices can be adapted to other high-potential markets. Lower-performing states should be assessed based on market demand and sales potential before additional investment decisions are made.
+
