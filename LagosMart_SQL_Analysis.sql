@@ -30,9 +30,9 @@ profitability, customer behavior, and operational performance.
 -- What is the overall sales, cost, and profit performance of LagosMart?
 
 SELECT
-    ROUND(SUM(Sales_Amount) AS Total_Sales,
-    ROUND(SUM(Cost_Amount) AS Total_Cost,
-    ROUND(SUM(Profit) AS Total_Profit,
+    SUM(Sales_Amount) AS Total_Sales,
+    SUM(Cost_Amount) AS Total_Cost,
+    SUM(Profit) AS Total_Profit,
     ROUND(SUM(Profit) / NULLIF(SUM(Sales_Amount), 0) * 100, 2)
         AS Overall_Profit_Margin,
     COUNT(DISTINCT Transaction_ID) AS Total_Orders,
@@ -52,7 +52,7 @@ FROM clean_lagosmart_data;
 
 SELECT
     Region,
-    (SUM(Sales_Amount) AS Total_Sales
+SUM(Sales_Amount) AS Total_Sales
 FROM clean_lagosmart_data
 GROUP BY Region
 ORDER BY Total_Sales DESC;
@@ -66,7 +66,7 @@ ORDER BY Total_Sales DESC;
 
 SELECT
     State,
-    (SUM(Sales_Amount) AS Total_Sales
+SUM(Sales_Amount) AS Total_Sales
 FROM clean_lagosmart_data
 GROUP BY State
 ORDER BY Total_Sales DESC
@@ -81,7 +81,7 @@ LIMIT 10;
 
 SELECT
     Customer_Type,
-   (SUM(Sales_Amount) AS Total_Sales,
+   SUM(Sales_Amount) AS Total_Sales,
     COUNT(DISTINCT Transaction_ID) AS Total_Orders
 FROM clean_lagosmart_data
 GROUP BY Customer_Type
@@ -96,7 +96,7 @@ ORDER BY Total_Sales DESC;
 
 SELECT
     Payment_Method,
-    (SUM(Sales_Amount) AS Total_Sales,
+    SUM(Sales_Amount) AS Total_Sales,
     COUNT(DISTINCT Transaction_ID) AS Total_Orders
 FROM clean_lagosmart_data
 GROUP BY Payment_Method
@@ -111,8 +111,8 @@ ORDER BY Total_Sales DESC;
 
 SELECT
     Product_Name,
-    (SUM(Profit) AS Total_Profit,
-    (SUM(Sales_Amount) AS Total_Sales
+    SUM(Profit) AS Total_Profit,
+    SUM(Sales_Amount) AS Total_Sales
 FROM clean_lagosmart_data
 GROUP BY Product_Name
 ORDER BY Total_Profit DESC
@@ -127,8 +127,8 @@ LIMIT 10;
 
 SELECT
     Product_Name,
-    ROUND(SUM(Profit), 2) AS Total_Profit,
-    ROUND(SUM(Sales_Amount), 2) AS Total_Sales
+    SUM(Profit) AS Total_Profit,
+    SUM(Sales_Amount) AS Total_Sales
 FROM clean_lagosmart_data
 GROUP BY Product_Name
 ORDER BY Total_Profit ASC
