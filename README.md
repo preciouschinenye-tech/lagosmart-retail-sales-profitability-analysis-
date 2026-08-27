@@ -130,7 +130,19 @@ The Executive Overview was designed to give management a quick understanding of 
 
 ### Executive Overview Dashboard
 
-![LagosMart Power BI Executive Overview Dashboard](LagosMart-PowerBI-Executive-Overview-Dashboard.png)
+![LagosMart Power BI Executive Overview Dashboard](visuals/dashboard/LagosMart-PowerBI-Executive-Overview-Dashboard.png)
+
+
+### Power BI Dashboard
+
+![LagosMart Power BI Sales Analysis Dashboard](visuals/dashboard/LagosMart-Sales-Analysis-Overview-Dashboard.png)
+
+![LagosMart Power BI Product Analysis Dashboard](visuals/dashboard/LagosMart-PowerBI-Product-Analysis-Dashboard.png)
+
+![LagosMart Power BI Customer Analysis Dashboard](visuals/dashboard/LagosMart-PowerBI-Customer-Analysis-Dashboard.png)
+
+![LagosMart Power BI Operational Analysis Dashboard](visuals/dashboard/LagosMart-PowerBI-Operational-Analysis-Dashboard.png)
+
 
 ## Sales Performance
 
@@ -193,7 +205,6 @@ LagosMart's sales and profitability were strongest towards the end of the period
 
 **Recommendation:**  
 Management should investigate the factors behind the strong December performance, including customer demand, product mix, promotional activity, and seasonal purchasing patterns, and assess which successful practices could be applied during weaker periods.
-
 
 ### Sales by Product Category
 
