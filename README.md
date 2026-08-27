@@ -133,7 +133,7 @@ The Executive Overview was designed to give management a quick understanding of 
 ![LagosMart Power BI Executive Overview Dashboard](visuals/dashboard/LagosMart-PowerBI-Executive-Overview-Dashboard.png)
 
 
-### Power BI Dashboard
+## Power BI Dashboard
 
 ![LagosMart Power BI Sales Analysis Dashboard](visuals/dashboard/LagosMart-Sales-Analysis-Overview-Dashboard.png)
 
