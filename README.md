@@ -144,7 +144,7 @@ Which region generated the highest sales revenue, and which region recorded the 
 **Visual:**  
 Sales by Region — bar chart with drill-down to states.
 
-![Sales by Region](Sales-by-Region.png)
+![Sales by Region](visuals/sales/Sales-by-Region.png)
 
 **Key Finding:**  
 The Southwest generated the highest sales revenue, while the Northeast recorded the lowest sales revenue.
@@ -163,7 +163,7 @@ Which states contributed the most to LagosMart's sales revenue?
 **Visual:**  
 Top 10 States by Sales — horizontal bar chart.
 
-![Top 10 States by Sales](Top-10-States-by-Sales.png)
+![Top 10 States by Sales](visuals/sales/Top-10-States-by-Sales.png)
 
 **Key Finding:**  
 Lagos recorded the highest sales revenue among the states included in the Top 10 analysis.
@@ -183,7 +183,7 @@ How did LagosMart's sales revenue and profit change over time?
 
 Monthly Sales and Profit Trend — combo chart.
 
-![Monthly Sales and Profit Trend](Monthly-Sales-and-Profit-Trend.png)
+![Monthly Sales and Profit Trend](visuals/sales/Monthly-Sales-and-Profit-Trend.png)
 
 **Key Finding:**  
 December recorded the highest sales revenue and highest profit, while January recorded the lowest sales revenue and lowest profit. Sales and profit generally moved in the same direction across the period.
@@ -203,7 +203,7 @@ Which product category generated the highest and lowest sales revenue?
 **Visual:**  
 Sales by Category — bar chart.
 
-![Sales by Product Category](Sales-by-Product-Category.png)
+![Sales by Product Category](visuals/sales/Sales-by-Product-Category.png)
 
 **Key Finding:**  
 Phones and Tablets generated the highest sales revenue, while Books and Stationery recorded the lowest sales revenue.
@@ -223,7 +223,7 @@ Which store type contributes more to LagosMart's revenue: online or physical sto
 **Visual:**  
 Sales by Store Type — bar chart.
 
-![Sales by Store Type](Sales-by-Store-Type.png)
+![Sales by Store Type](visuals/sales/Sales-by-Store-Type.png)
 
 **Key Finding:**  
 Online sales generated approximately 59% of total sales, compared with approximately 41% from physical stores.
@@ -243,7 +243,7 @@ How does sales performance differ between new and returning customers?
 **Visual:**  
 Sales by Customer Type — donut chart.
 
-![Sales by Customer Type](Sales-by-Customer-Type.png)
+![Sales by Customer Type](visuals/sales/Sales-by-Customer-Type.png)
 
 **Key Finding:**  
 New customers generated higher sales revenue than returning customers during the period analyzed.
@@ -260,7 +260,7 @@ LagosMart should develop customer retention initiatives such as personalized pro
 **Business Question:**  
 Which payment method generated the highest sales revenue?
 
-![Sales by Payment Method](Sales-by-Payment-Method.png)
+![Sales by Payment Method](visuals/sales/Sales-by-Payment-Method.png)
 
 **Visual:**  
 Sales by Payment Method — column chart.
@@ -284,7 +284,7 @@ The Product Performance analysis evaluates revenue contribution, profitability, 
 **Business Question:**  
 Which product category generated the highest and lowest profit?
 
-![Profit by Product Category](Profit-by-Product-Category.png)
+![Profit by Product Category](visuals/products/Profit-by-Product-Category.png)
 
 **Visual:**  
 Profit by Category — column chart.
@@ -304,7 +304,7 @@ LagosMart should optimize the profitability of strong categories such as Electro
 **Business Question:**  
 Which individual products generated the highest profit?
 
-![Most Profitable Products](Most-Profitable-Products.png)
+![Most Profitable Products](visuals/products/Most-Profitable-Products.png)
 
 **Visual:**  
 Most Profitable Products — Top 10 bar chart.
@@ -327,7 +327,7 @@ Which individual products contributed the least to LagosMart's profitability?
 **Visual:**  
 Bottom 10 Products by Profit — bar chart.
 
-![Bottom 10 Products by Profit](Bottom-10-Products-by-Profit.png)
+![Bottom 10 Products by Profit](visuals/products/Bottom-10-Products-by-Profit.png)
 
 **Key Finding:**  
 Several products generated substantially lower profit than the stronger-performing products, with Notepad, Printer Paper A4, and Golden Morn 1kg among the lowest-profit products identified.
@@ -347,7 +347,7 @@ Do products with the highest sales revenue also generate the highest profit?
 **Visual:**  
 Top 10 Products by Sales — bar chart, interpreted alongside the Most Profitable Products analysis.
 
-![Sales Revenue versus Product Profitability](Sales-Revenue-versus-Product-Profitability.png)
+![Sales Revenue versus Product Profitability](visuals/products/Sales-Revenue-versus-Product-Profitability.png)
 
 **Key Finding:**  
 The products generating the highest sales revenue were not necessarily the most profitable. For example, iPhone 13 ranked highly in sales but did not generate the highest profit, while Treadmill recorded the highest profit despite ranking sixth in sales.
@@ -367,7 +367,7 @@ Which product category has the highest and lowest average profit margin?
 **Visual:**  
 Average Profit Margin by Product Category — column chart.
 
-![Average Profit Margin by Product Category](Average-Profit-Margin-by-Category.png)
+![Average Profit Margin by Product Category](visuals/products/Average-Profit-Margin-by-Category.png)
 
 **Key Finding:**  
 Fashion recorded the highest average profit margin at approximately 34%, while Phones and Tablets recorded the lowest at approximately 7%.
@@ -391,7 +391,7 @@ How does customer satisfaction vary across LagosMart's regions?
 **Visual:**  
 Customer Rating by Region — bar chart.
 
-![Customer Rating by Region](Customer-Rating-by-Region.png)
+![Customer Rating by Region](visuals/customer/Customer-Rating-by-Region.png)
 
 **Key Finding:**  
 The Southwest recorded the highest average customer rating, while the Northeast recorded the lowest.
@@ -411,7 +411,7 @@ Which product categories received the highest and lowest average customer rating
 **Visual:**  
 Customer Rating by Category — bar chart.
 
-![Customer Rating by Category](Customer-Rating-by-Category.png)
+![Customer Rating by Category](visuals/customer/Customer-Rating-by-Category.png)
 
 **Key Finding:**  
 Grocery recorded the highest average customer rating at approximately 3.85, while Furniture, Books and Stationery, and Sports and Fitness recorded the lowest ratings at approximately 0.7 in the original category-level visualization.
@@ -430,7 +430,7 @@ How are recorded customer ratings distributed between new and returning customer
 **Visual:**  
 Distribution of Recorded Customer Ratings by Customer Type — donut chart.
 
-![Distribution of Customer Rating by Customer Type](Distribution-of-Rating-Cystomer-Type.png)
+![Distribution of Customer Rating by Customer Type](visuals/customer/Distribution-of-Rating-Cystomer-Type.png)
 
 **Key Finding:**  
 New customers accounted for 50.17% of recorded customer ratings, while returning customers accounted for 49.83%, indicating a nearly even distribution.
@@ -450,7 +450,7 @@ How is LagosMart's customer base distributed between new and returning customers
 **Visual:**  
 Customer Type Distribution — donut chart.
 
-![Customer Type Distribution](Customer-Type-Distribution.png)
+![Customer Type Distribution](visuals/customer/Customer-Type-Distribution.png)
 
 **Key Finding:**  
 New customers represented approximately 60.58% of the customer base, while returning customers represented approximately 39.42%.
@@ -470,7 +470,7 @@ Which states have the highest customer concentration among the Top 10 states?
 **Visual:**  
 Top 10 Customer Distribution by State — column chart.
 
-![Top 10 States by Customer Distribution Type](Top-10-Customer-Distribution-by-States.png)
+![Top 10 States by Customer Distribution Type](visuals/customer/Top-10-Customer-Distribution-by-States.png)
 
 **Key Finding:**  
 Lagos recorded the highest customer count among the Top 10 states, with 786 customers, while Kogi recorded 135 customers within the same Top 10 group.
@@ -494,7 +494,7 @@ Which product categories have the highest and lowest return rates?
 **Visual:**  
 Return Rate by Category — bar chart.
 
-![Return Rate by Category](Return-Rate-by-Category.png)
+![Return Rate by Category](visuals/operations/Return-Rate-by-Category.png)
 
 **Key Finding:**  
 Electronics recorded the highest return rate at 16.0%, while Baby Products and Sports and Fitness recorded the lowest return rates at 4.8%.
@@ -514,7 +514,7 @@ What is the overall delivery status of LagosMart's orders?
 **Visual:**  
 Delivery Status Distribution — donut chart.
 
-![Delivery Status Distribution](Delivery-Status.png)
+![Delivery Status Distribution](visuals/operations/Delivery-Status.png)
 
 **Key Finding:**  
 Delivered orders accounted for approximately 78.62% of total orders. The remaining orders were distributed across in-transit, cancelled, pending, and failed statuses.
@@ -534,7 +534,7 @@ Which payment methods are associated with the highest cancellation rates?
 **Visual:**  
 Payment Method vs Cancellation Rate — table.
 
-![Payment Method vs Cancellation Rate](Payment-Method-vs-Cancellation-Rate.png)
+![Payment Method vs Cancellation Rate](visuals/operations/Payment-Method-vs-Cancellation-Rate.png)
 
 **Key Finding:**  
 Cash on Delivery recorded the highest cancellation rate at approximately 15.3%, while Card Payment recorded the lowest among the major payment methods at approximately 1.8%.
@@ -554,7 +554,7 @@ How does delivery performance vary across payment methods?
 **Visual:**  
 Delivery Status by Payment Method — stacked bar chart.
 
-![Delivery Status by Payment Method](Delivery-Status-by-Payment-Method.png)
+![Delivery Status by Payment Method](visuals/operations/Delivery-Status-by-Payment-Method.png)
 
 **Key Finding:**  
 Delivery outcomes varied across payment methods, with Cash on Delivery recording approximately 73% delivered orders and the highest cancellation share at approximately 15%. Bank Transfer and Mobile Wallet recorded approximately 81% delivered orders.
@@ -574,7 +574,7 @@ What is the overall outcome of LagosMart's orders?
 **Visual:**  
 Order Status Distribution — bar chart.
 
-![Order Status Distribution](Order-Status-Disribution.png)
+![Order Status Distribution](visuals/operations/Order-Status-Disribution.png)
 
 **Key Finding:**  
 The majority of LagosMart orders were completed, with approximately 4.3K completed orders, while returned and cancelled orders represented smaller portions of total order volume.
@@ -644,7 +644,7 @@ Overall, the analysis indicates that LagosMart should balance revenue growth wit
 SQL was used to support exploratory analysis and answer selected business questions relating to sales, customers, products, and operational performance.
 
 Selected SQL analyses included:
-
+- Overall business performance
 - Sales performance by region and state
 - Sales performance by customer type
 - Sales performance by payment method
