@@ -129,18 +129,27 @@ The Executive Overview also contains four key visuals:
 The Executive Overview was designed to give management a quick understanding of LagosMart's financial, sales, geographic, customer, and operational performance before moving into the detailed analysis pages.
 
 ### Executive Overview Dashboard
-
-![LagosMart Power BI Executive Overview Dashboard](./visuals/dashboard/LagosMart-PowerBI-Executive-Overview-Dashboard.png)
-
 ## Power BI Dashboard
 
-![LagosMart Power BI Sales Analysis Dashboard](./visuals/dashboard/LagosMart-PowerBI-Sales-Analysis-Dashboard.png)
+### Executive Overview
 
-![LagosMart Power BI Product Analysis Dashboard](./visuals/dashboard/LagosMart-PowerBI-Product-Analysis-Dashboard.png)
+<img src="./visuals/dashboard/LagosMart-PowerBI-Executive-Overview-Dashboard.png" alt="LagosMart Power BI Executive Overview Dashboard">
 
-![LagosMart Power BI Customer Analysis Dashboard](./visuals/dashboard/LagosMart-PowerBI-Customer-Analysis-Dashboard.png)
+### Sales Analysis
 
-![LagosMart Power BI Operational Analysis Dashboard](./visuals/dashboard/LagosMart-PowerBI-Operational-Analysis-Dashboard.png)
+<img src="./visuals/dashboard/LagosMart-PowerBI-Sales-Analysis-Dashboard.png" alt="LagosMart Power BI Sales Analysis Dashboard">
+
+### Product Analysis
+
+<img src="./visuals/dashboard/LagosMart-PowerBI-Product-Analysis-Dashboard.png" alt="LagosMart Power BI Product Analysis Dashboard">
+
+### Customer Analysis
+
+<img src="./visuals/dashboard/LagosMart-PowerBI-Customer-Analysis-Dashboard.png" alt="LagosMart Power BI Customer Analysis Dashboard">
+
+### Operational Analysis
+
+<img src="./visuals/dashboard/LagosMart-PowerBI-Operational-Analysis-Dashboard.png" alt="LagosMart Power BI Operational Analysis Dashboard">
 
 ## Sales Performance
 
