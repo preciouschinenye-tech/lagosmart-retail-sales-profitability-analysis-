@@ -148,7 +148,7 @@ The Executive Overview was designed to give management a quick understanding of 
 
 ### Operational Analysis
 
-![LagosMart Power BI Operational Analysis Dashboard](visuals/dashboard/LagosMart-PowerBI-Operational-Analysis-Dashboard.png)
+![LagosMart Power BI Operational Analysis Dashboard](visuals/dashboard/LagosMart-PowerBI-Analysis-Dashboard.png)
 
 ## Sales Performance
 
